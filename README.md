@@ -29,7 +29,7 @@ GIF created with [RecordIt](https://recordit.co).
 
 ## Notes
 
-This was my first project in XCode and first time learning and using Swift. There was a lot to adjust to but it was a fun project overall!
+This was my first project in XCode and first time using Swift. It was a bit of a learning curve but a fun project overall!
 
 ## License
 
